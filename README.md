@@ -24,7 +24,7 @@
 
 ### 🔗 Try SortLab Online
 
-**[CLICK HERE TO OPEN LIVE DEMO](https://YOUR-USERNAME.github.io/sorting-visualizer/)**
+**[CLICK HERE TO OPEN LIVE DEMO](https://hemantraj-dev.github.io/sorting-visualizer/)**
 
 > Replace YOUR-USERNAME with your GitHub username.
 
@@ -138,7 +138,7 @@ sorting-visualizer/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sorting-visualizer.git
+git clone https://github.com/hemantraj-dev/sorting-visualizer.git
 ```
 
 2. Open the project folder:
@@ -170,7 +170,7 @@ Follow these steps to deploy SortLab:
 Your website will be available at:
 
 ```text
-https://YOUR-USERNAME.github.io/sorting-visualizer/
+https://hemantraj-dev.github.io/sorting-visualizer/
 ```
 
 ---
@@ -219,7 +219,7 @@ through interactive visual representations.
 
 **Deployment:** GitHub Pages
 
-**Repository:** https://github.com/YOUR-USERNAME/sorting-visualizer
+**Repository:** https://github.com/hemantraj-dev/sorting-visualizer
 
 ---
 
